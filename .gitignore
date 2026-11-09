@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
+
+# 报告产物：HTML 与 PDF 都保留（PDF 是交付物，可直接在线阅读）
+
+# 仅供本地排版用的作品集脚本与产物，不进仓库
+portfolio/
+make_portfolio.py
+portfolio_figs.py

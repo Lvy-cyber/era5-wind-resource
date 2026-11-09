@@ -1,0 +1,23 @@
+{
+  "source": "Open-Meteo Archive API (ERA5)",
+  "model": "era5",
+  "requested_lat": 41.25,
+  "requested_lon": 112.75,
+  "returned_lat": 41.25,
+  "returned_lon": 112.75,
+  "grid_elevation_m": 1930.0,
+  "start": "2024-01-01",
+  "end": "2024-12-31",
+  "rows": 8784,
+  "units": {
+    "time": "iso8601",
+    "wind_speed_10m": "m/s",
+    "wind_direction_10m": "°",
+    "wind_speed_100m": "m/s",
+    "wind_direction_100m": "°",
+    "temperature_2m": "°C",
+    "surface_pressure": "hPa"
+  },
+  "license": "ERA5 © Copernicus Climate Change Service; API by Open-Meteo (CC BY 4.0)",
+  "fetched_at_utc": "2026-11-06T13:19:19.369294+00:00"
+}
